@@ -1,4 +1,4 @@
-### Hi there, I'm Nejc. 👋
+# Hi there, I'm Nejc. 👋
 ---
 - 🎓 I'm currently a student at [FERI], [UM SI]
 - 🌱 I'm currently studying FLUTTER & ANGULAR
