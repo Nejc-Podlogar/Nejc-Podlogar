@@ -16,7 +16,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nejc-Podlogar&theme=dark&hide_border=true">
 
 ### Latest stats on my knowledge based on github:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nejc-Podlogar&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nejc-Podlogar&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 
 [Porfolio page]: https://www.google.com
 [FERI]: https://feri.um.si/
