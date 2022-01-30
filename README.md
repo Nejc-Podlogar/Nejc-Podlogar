@@ -13,7 +13,7 @@
 ---
 
 ### Latest stats on my knowledge based on github:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nejcpodlogar&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nejc-Podlogar&show_icons=true&hide_border=true" />
 
 [Porfolio page]: https://www.google.com
 [FERI]: https://feri.um.si/
