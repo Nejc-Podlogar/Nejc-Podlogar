@@ -1,6 +1,6 @@
 ### Hi there, I'm Nejc. 👋
 ---
-- 🎓 I'm currently a student at [FERI], [UM SI]
+- 🎓 I'm currently a student at [FERI]{:target="_blank"}, [UM SI]
 - 🌱 I'm currently studying FLUTTER & ANGULAR
 - 🥅 My 2022 goal is to complete the scouts app I am working on
 - ⚜️ Fun fact I am doing some volunteering work at scouts.
