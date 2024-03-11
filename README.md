@@ -5,7 +5,10 @@
 - 🥅 My 2022 goal is to complete the scouts app I am working on
 - ⚜️ Fun fact I am doing some volunteering work at scouts.
 
-<a href="https://app.daily.dev/nejcpodlogar"><img src="https://api.daily.dev/devcards/v2/Uw9ntOiQytZUdh4FImqXJ.png?type=default&r=osi" width="356" alt="Nejc Podlogar's Dev Card"/></a>
+
+<a href="https://app.daily.dev/nejcpodlogar"><img src="./devcard.png" width="356" alt="Nejc Podlogar's Dev Card"/></a>
+
+
 
 #### My current personal project is to develop a porfolio page using wordpress [Porfolio page]
 
